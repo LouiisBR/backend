@@ -1,0 +1,154 @@
+{
+  "state": [
+    {
+      "id": 2,
+      "abbreviation": "AL",
+      "name": "Alagoas",
+      "code": 27
+    },
+    {
+      "id": 3,
+      "abbreviation": "AM",
+      "name": "Amazonas",
+      "code": 13
+    },
+    {
+      "id": 4,
+      "abbreviation": "AP",
+      "name": "Amapá",
+      "code": 16
+    },
+    {
+      "id": 5,
+      "abbreviation": "BA",
+      "name": "Bahia",
+      "code": 29
+    },
+    {
+      "id": 6,
+      "abbreviation": "CE",
+      "name": "Ceará",
+      "code": 23
+    },
+    {
+      "id": 8,
+      "abbreviation": "ES",
+      "name": "Espírito Santo",
+      "code": 32
+    },
+    {
+      "id": 9,
+      "abbreviation": "GO",
+      "name": "Goiás",
+      "code": 52
+    },
+    {
+      "id": 10,
+      "abbreviation": "MA",
+      "name": "Maranhão",
+      "code": 21
+    },
+    {
+      "id": 11,
+      "abbreviation": "MG",
+      "name": "Minas Gerais",
+      "code": 31
+    },
+    {
+      "id": 12,
+      "abbreviation": "MS",
+      "name": "Mato Grosso do Sul",
+      "code": 50
+    },
+    {
+      "id": 13,
+      "abbreviation": "MT",
+      "name": "Mato Grosso",
+      "code": 51
+    },
+    {
+      "id": 14,
+      "abbreviation": "PA",
+      "name": "Pará",
+      "code": 15
+    },
+    {
+      "id": 15,
+      "abbreviation": "PB",
+      "name": "Paraíba",
+      "code": 25
+    },
+    {
+      "id": 16,
+      "abbreviation": "PE",
+      "name": "Pernambuco",
+      "code": 26
+    },
+    {
+      "id": 17,
+      "abbreviation": "PI",
+      "name": "Piauí",
+      "code": 22
+    },
+    {
+      "id": 18,
+      "abbreviation": "PR",
+      "name": "Paraná",
+      "code": 41
+    },
+    {
+      "id": 19,
+      "abbreviation": "RJ",
+      "name": "Rio de Janeiro",
+      "code": 33
+    },
+    {
+      "id": 20,
+      "abbreviation": "RN",
+      "name": "Rio Grande do Norte",
+      "code": 24
+    },
+    {
+      "id": 21,
+      "abbreviation": "RO",
+      "name": "Rondônia",
+      "code": 11
+    },
+    {
+      "id": 22,
+      "abbreviation": "RR",
+      "name": "Roraima",
+      "code": 14
+    },
+    {
+      "id": 23,
+      "abbreviation": "RS",
+      "name": "Rio Grande do Sul",
+      "code": 43
+    },
+    {
+      "id": 24,
+      "abbreviation": "SC",
+      "name": "Santa Catarina",
+      "code": 42
+    },
+    {
+      "id": 25,
+      "abbreviation": "SE",
+      "name": "Sergipe",
+      "code": 28
+    },
+    {
+      "id": 26,
+      "abbreviation": "SP",
+      "name": "São Paulo",
+      "code": 35
+    },
+    {
+      "id": 27,
+      "abbreviation": "TO",
+      "name": "Tocantins",
+      "code": 17
+    }
+  ]
+}
