@@ -150,5 +150,11 @@
       "name": "Tocantins",
       "code": 17
     }
+  ],
+  "account": [
+    {
+      "email": "projetos@deltasystem.com.br",
+      "password": "123456"
+    }
   ]
 }
